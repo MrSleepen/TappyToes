@@ -1,0 +1,10 @@
+diff a/Tappy Toes Unity/Assets/Resources/Prefabs/Effects/Rain.prefab b/Tappy Toes Unity/Assets/Resources/Prefabs/Effects/Rain.prefab	(rejected hunks)
+@@ -25,7 +25,7 @@
+   m_Icon: {fileID: 0}
+   m_NavMeshLayer: 0
+   m_StaticEditorFlags: 0
+-  m_IsActive: 0
++  m_IsActive: 1
+ --- !u!1 &1365848114009100
+ GameObject:
+   m_ObjectHideFlags: 0
